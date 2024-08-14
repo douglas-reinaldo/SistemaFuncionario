@@ -11,6 +11,7 @@ namespace SistemaFuncionarios
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá");
             bool on = true;
             SistemaFuncionarios sistema = new SistemaFuncionarios();
             while (on)
